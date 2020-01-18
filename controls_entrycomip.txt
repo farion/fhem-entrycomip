@@ -1,0 +1,2 @@
+DEL ./FHEM/98_EntryComIP.pm
+UPD 2020-01-18_17:29:52 39270 FHEM/98_EntryComIP.pm
